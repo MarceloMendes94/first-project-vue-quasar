@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Curso de vue3 ",
+      "author": "Marcelo P. Mendes",
+      "content": "vue "
+    },
+    {
+      "id": "2",
+      "title": "Curso de html e css",
+      "author": "Marcelo P. Mendes",
+      "content": "html css "
+    },
+    {
+      "id": "3",
+      "title": "Curso de quasar crud",
+      "author": "Marcelo P. Mendes",
+      "content": "Este é um artigo sobre vue3 quasar e api rest. "
+    }    
+  ]
+}
